@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmisam&count_private=true&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NazmiSam)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NazmiSam&theme=highcontrast)](https://git.io/streak-stats)
